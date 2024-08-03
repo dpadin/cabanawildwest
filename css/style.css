@@ -1,0 +1,33 @@
+header {
+    background-color: black;
+    color: white;
+}
+
+main {
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+
+}
+
+aside {
+    background-color: tomato;
+    color: black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer ul{
+    list-style: none;
+}
+
+
+.col img{
+    height: 400px;
+    width: 400px;
+
+}

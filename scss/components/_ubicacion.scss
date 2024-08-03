@@ -1,0 +1,19 @@
+.mapa-ubicacion{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        background-color: $main_background_color;
+        border-style: solid;
+        border-color:black;
+        border-width: 3px;     
+        margin: 10px;
+        padding:10px;
+        }
+
+mapa-ubicacion-maps{
+        width: auto;
+        height:auto;
+        }        
+
+ 

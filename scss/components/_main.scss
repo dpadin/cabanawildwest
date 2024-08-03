@@ -1,0 +1,19 @@
+main {
+    background-color: $main_background_color;
+    color: $main_color_texto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;;
+    align-items: center;
+    justify-items: center;
+
+}
+
+/* Para la pagina de ubicacion*/
+main iframe{            
+    border-style: solid;
+    border-color:black;
+    border-width: 3px;
+   
+
+}
